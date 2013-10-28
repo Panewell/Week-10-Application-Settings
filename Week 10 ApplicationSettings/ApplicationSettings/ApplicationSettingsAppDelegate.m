@@ -24,7 +24,7 @@
     if (![defaults objectForKey:@"password"])
         [defaults setObject:@"password" forKey:@"password"];
     if (![defaults objectForKey:@"color"])
-        [defaults setObject:@"Green" forKey:@"color"];
+        [defaults setObject:@"Yellow" forKey:@"color"];
     [defaults synchronize];
     
     self.window = [[[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]] autorelease];

@@ -44,18 +44,18 @@
 			<key>Key</key>
 			<string>color</string>
 			<key>DefaultValue</key>
-			<string>Green</string>
+			<string>Yellow</string>
 			<key>Values</key>
 			<array>
-				<string>Red</string>
-				<string>Green</string>
-				<string>Blue</string>
+				<string>Yellow</string>
+				<string>Orange</string>
+				<string>Pink</string>
 			</array>
 			<key>Titles</key>
 			<array>
-				<string>Red Color</string>
-				<string>Green Color</string>
-				<string>Blue Color</string>
+				<string>Yellow Color</string>
+				<string>Orange Color</string>
+				<string>Pink Color</string>
 			</array>
 		</dict>
 	</array>
